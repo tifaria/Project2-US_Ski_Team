@@ -22,12 +22,32 @@ app = Flask(__name__)
 @app.route("/ski-team")
 def ski():
     results = session.query(ski_team.name, ski_team.team, ski_team.city, ski_team.state, ski_team.lat, ski_team.long).all()
-    return jsonify(results)
+    all_results = []
+    for name, team, city, state, lat, long in results:
+        ski_results = {}
+        ski_results['name'] = name
+        ski_results['team'] = team
+        ski_results['city'] = city
+        ski_results['state'] = state
+        ski_results['lat'] = lat
+        ski_results['long'] = long
+        all_results.append(ski_results)
+    return jsonify(all_results)
+
 
 @app.route("/mountains")
 def mountain():
     results = session.query(mountain_elevations.state, mountain_elevations.mountain_name, mountain_elevations.elevation, mountain_elevations.latitude, mountain_elevations.longitude).all()
-    return jsonify(results)
+    mountain_info = []
+    for state, mountain, elevation, latitude, longitude in results:
+        mountain_results = {}
+        mountain_results['state'] = state
+        mountain_results['mountain'] = mountain
+        mountain_results['elevation'] = elevation
+        mountain_results['latitude'] = latitude
+        mountain_results['longitude'] = longitude
+        mountain_info.append(mountain_results)
+    return jsonify(mountain_info)
 
 if __name__ == '__main__':
     app.run(debug=True)

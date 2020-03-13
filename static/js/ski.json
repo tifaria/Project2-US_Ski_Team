@@ -1,0 +1,1546 @@
+[
+  {
+    "city": "Minturn", 
+    "lat": 39.5864, 
+    "long": -106.4309, 
+    "name": "Alice McKennis", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Jackson Hole", 
+    "lat": 43.4799, 
+    "long": -110.7624, 
+    "name": "Breezy Johnson", 
+    "state": "Wyoming", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Tahoe City", 
+    "lat": 39.1677, 
+    "long": -120.1452, 
+    "name": "Bryce Bennett", 
+    "state": "California", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Portland", 
+    "lat": 45.5051, 
+    "long": -122.675, 
+    "name": "Jacqueline Wiles", 
+    "state": "Oregon", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Bend", 
+    "lat": 44.0582, 
+    "long": -121.3153, 
+    "name": "Laurenne Ross", 
+    "state": "Oregon", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Edwards", 
+    "lat": 39.5764, 
+    "long": -106.7235, 
+    "name": "Mikaela Shiffrin", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Jackson Hole", 
+    "lat": 43.4799, 
+    "long": -110.7624, 
+    "name": "Steven Nyman", 
+    "state": "Wyoming", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Ted Ligety", 
+    "state": "Utah", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Bend", 
+    "lat": 44.0582, 
+    "long": -121.3153, 
+    "name": "Tommy Ford", 
+    "state": "Oregon", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Tahoe City", 
+    "lat": 39.1677, 
+    "long": -120.1452, 
+    "name": "Travis Ganong", 
+    "state": "California", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Carnelian Bay", 
+    "lat": 39.2269, 
+    "long": -120.0819, 
+    "name": "AJ Hurt", 
+    "state": "California", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Hingham", 
+    "lat": 42.2418, 
+    "long": -70.8898, 
+    "name": "Alice Merryweather", 
+    "state": "Massachusetts", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Waitsfield", 
+    "lat": 44.1926, 
+    "long": -72.7798, 
+    "name": "Ben Ritchie", 
+    "state": "Vermont", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Waitsfield", 
+    "lat": 44.1926, 
+    "long": -72.7798, 
+    "name": "Brian McLaughlin", 
+    "state": "Vermont", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Holladay", 
+    "lat": 40.6688, 
+    "long": -111.8247, 
+    "name": "Jared Goldberg", 
+    "state": "Utah", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Strawberry", 
+    "lat": 38.1983, 
+    "long": -120.0094, 
+    "name": "Keely Cashman", 
+    "state": "California", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Littleton", 
+    "lat": 39.6133, 
+    "long": -105.0166, 
+    "name": "Kyle Negomir", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Gresham", 
+    "lat": 45.5099, 
+    "long": -122.4348, 
+    "name": "Luke Winters", 
+    "state": "Oregon", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Denver", 
+    "lat": 39.7392, 
+    "long": -104.9903, 
+    "name": "Nina O\u2019Brien", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Burlington", 
+    "lat": 44.4759, 
+    "long": -73.2121, 
+    "name": "Paula Moltzan", 
+    "state": "Vermont", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Edwards", 
+    "lat": 39.5764, 
+    "long": -106.7235, 
+    "name": "River Radamus", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Starksboro", 
+    "lat": 44.2273, 
+    "long": -73.0573, 
+    "name": "Ryan Cochran-Siegle", 
+    "state": "Vermont", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Sugarloaf", 
+    "lat": 45.0314, 
+    "long": -70.3131, 
+    "name": "Sam Morse", 
+    "state": "Maine", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Ripton", 
+    "lat": 43.9737, 
+    "long": -73.034, 
+    "name": "Abi Jewett", 
+    "state": "Vermont", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Aspen", 
+    "lat": 39.1911, 
+    "long": -106.8175, 
+    "name": "Bridger Gile", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Glenwood Springs", 
+    "lat": 39.5505, 
+    "long": -107.3248, 
+    "name": "Cooper Cornelius", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Aspen", 
+    "lat": 39.1911, 
+    "long": -106.8175, 
+    "name": "Galena Wardle", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Springfield", 
+    "lat": 43.4951, 
+    "long": -72.0334, 
+    "name": "George Steffey", 
+    "state": "New Hampshire", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Katie Hensien", 
+    "state": "Utah", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "St. Louis", 
+    "lat": 38.627, 
+    "long": -90.1994, 
+    "name": "Ainsley Proffit", 
+    "state": "Missouri", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Mammoth Lakes", 
+    "lat": 37.6485, 
+    "long": -118.9721, 
+    "name": "Alix Wilkinson", 
+    "state": "California", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Vail", 
+    "lat": 39.6403, 
+    "long": -106.3742, 
+    "name": "Emma Resnick", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Wayzata", 
+    "lat": 44.9741, 
+    "long": -93.5066, 
+    "name": "Isaiah Nelson", 
+    "state": "Minnesota", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Sun Valley", 
+    "lat": 43.6971, 
+    "long": -114.3517, 
+    "name": "Jack Smith", 
+    "state": "Idaho", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Vail", 
+    "lat": 39.6403, 
+    "long": -106.3742, 
+    "name": "Jacob Dilling", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Edwards", 
+    "lat": 39.645, 
+    "long": -106.5942, 
+    "name": "Kellen Kinsella", 
+    "state": "Colorado", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Lauren Macuga", 
+    "state": "Utah", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Gilford", 
+    "lat": 43.5476, 
+    "long": -71.4067, 
+    "name": "Zoe Zimmermann", 
+    "state": "New Hampshire", 
+    "team": "Alpine"
+  }, 
+  {
+    "city": "Crested Butte", 
+    "lat": 38.8697, 
+    "long": -106.9878, 
+    "name": "Aaron Blunck", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Bishop", 
+    "lat": 37.3614, 
+    "long": -118.3997, 
+    "name": "Abigale Hansen", 
+    "state": "California", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Aspen", 
+    "lat": 39.1911, 
+    "long": -106.8175, 
+    "name": "Alex Ferreira", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Breckenridge", 
+    "lat": 39.4817, 
+    "long": -106.0384, 
+    "name": "Annalisa Drew", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Winter Park", 
+    "lat": 39.8917, 
+    "long": -105.7631, 
+    "name": "Birk Irving", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Brita Sigourney", 
+    "state": "Utah", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Mammoth Lakes", 
+    "lat": 37.6485, 
+    "long": -118.9721, 
+    "name": "Carly Margulies", 
+    "state": "California", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Reno", 
+    "lat": 39.5296, 
+    "long": -119.8138, 
+    "name": "David Wise", 
+    "state": "Nevada", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Devin Logan", 
+    "state": "Utah", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Bend", 
+    "lat": 44.0582, 
+    "long": -121.3153, 
+    "name": "Hunter Hess", 
+    "state": "Oregon", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Boulder", 
+    "lat": 40.015, 
+    "long": -105.2705, 
+    "name": "Lyman Currier", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Avon", 
+    "lat": 39.6331, 
+    "long": -106.5222, 
+    "name": "Taylor Seaton", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Basalt", 
+    "lat": 39.3689, 
+    "long": -107.0328, 
+    "name": "Torin Yater-Wallace", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Alex Hall", 
+    "state": "Utah", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Manchester Center", 
+    "lat": 43.1637, 
+    "long": -73.0723, 
+    "name": "Caroline Claire", 
+    "state": "Vermont", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Colby Stevenson", 
+    "state": "Utah", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Darian Stevens", 
+    "state": "Utah", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Joss Christensen", 
+    "state": "Utah", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Julia Krass", 
+    "state": "Utah", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Brownfield", 
+    "lat": 43.9381, 
+    "long": -70.9087, 
+    "name": "Kiernan Fagan", 
+    "state": "Maine", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Winhall", 
+    "lat": 43.1558, 
+    "long": -72.9133, 
+    "name": "Mac Forehand", 
+    "state": "Vermont", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Whitefish", 
+    "lat": 48.4106, 
+    "long": -114.3353, 
+    "name": "Maggie Voisin", 
+    "state": "Montana", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Lawrenceburg", 
+    "lat": 39.0909, 
+    "long": -84.85, 
+    "name": "Nick Goepper", 
+    "state": "Indiana", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Chaska", 
+    "lat": 44.7893, 
+    "long": -93.6018, 
+    "name": "Willie Borm", 
+    "state": "Minnesota", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Aspen", 
+    "lat": 39.1911, 
+    "long": -106.8175, 
+    "name": "Cassidy Jarrell", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Lakewood", 
+    "lat": 39.7047, 
+    "long": -105.0814, 
+    "name": "Connor Ladd", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Lakewood", 
+    "lat": 39.7047, 
+    "long": -105.0814, 
+    "name": "Dylan Ladd", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Carbondale", 
+    "lat": 39.4022, 
+    "long": -107.2112, 
+    "name": "Hanna Faulhaber", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Winter Park", 
+    "lat": 39.8917, 
+    "long": -105.7631, 
+    "name": "Hunter Carey", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Breckenridge", 
+    "lat": 39.4817, 
+    "long": -106.0384, 
+    "name": "Jaxin Hoerter", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Steamboat Springs", 
+    "lat": 40.485, 
+    "long": -106.8317, 
+    "name": "Sammy Schuiling", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Winter Park", 
+    "lat": 39.8917, 
+    "long": -105.7631, 
+    "name": "Svea Irving", 
+    "state": "Colorado", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Truckee", 
+    "lat": 39.328, 
+    "long": -120.1833, 
+    "name": "Cody LaPlante", 
+    "state": "California", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Brownfield", 
+    "lat": 43.9381, 
+    "long": -70.9087, 
+    "name": "Deven Fagan", 
+    "state": "Maine", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Madbury", 
+    "lat": 43.1693, 
+    "long": -70.9239, 
+    "name": "Grace Henderson", 
+    "state": "New Hampshire", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Madbury", 
+    "lat": 43.1693, 
+    "long": -70.9239, 
+    "name": "Hunter Henderson", 
+    "state": "New Hampshire", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Marin Hamill", 
+    "state": "Utah", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Rell Harwood", 
+    "state": "Utah", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Orono", 
+    "lat": 44.9714, 
+    "long": -93.6044, 
+    "name": "Richard Thomas", 
+    "state": "Minnesota", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Mammoth Lakes", 
+    "lat": 37.6485, 
+    "long": -118.9721, 
+    "name": "Tyler Wallasch", 
+    "state": "California", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Salt Lake City", 
+    "lat": 40.7608, 
+    "long": -111.891, 
+    "name": "Whitney Gardner", 
+    "state": "Utah", 
+    "team": "Freeski"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Alex Bowen", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Ashley Caldwell", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Chris Lillis", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Eric Loughran", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Jonathon Lillis", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Justin Schoenefeld", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Kaila Kuhn", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Madison Varmette", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Megan Nick", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Megan Smallhouse", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Morgan Northrop", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Nicholas Novak", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Quinn Dehlinger", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Winter Vinecki", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Carlisle", 
+    "lat": 42.5293, 
+    "long": -71.3495, 
+    "name": "Alex Lewis", 
+    "state": "Massachusetts", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Avital Shimko", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Bradley Wilson", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Vail", 
+    "lat": 39.6403, 
+    "long": -106.3742, 
+    "name": "Casey Andringa", 
+    "state": "Colorado", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Emerson Smith", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Killington", 
+    "lat": 43.6776, 
+    "long": -72.7798, 
+    "name": "Hannah Soar", 
+    "state": "Vermont", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Salt Lake City", 
+    "lat": 40.7608, 
+    "long": -111.891, 
+    "name": "Jaelin Kauf", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Jesse Andringa", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Joel Hedrick", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Vail", 
+    "lat": 39.6403, 
+    "long": -106.3742, 
+    "name": "Kai Owens", 
+    "state": "Colorado", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Steamboat Springs", 
+    "lat": 40.485, 
+    "long": -106.8317, 
+    "name": "Kenzie Radway", 
+    "state": "Colorado", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Pittsford", 
+    "lat": 43.079, 
+    "long": -77.5275, 
+    "name": "Morgan Schild", 
+    "state": "New York", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Nessa Dziemian", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Nick Page", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Olivia Giaccio", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Sabrina Cass", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Vail", 
+    "lat": 39.6403, 
+    "long": -106.3742, 
+    "name": "Tess Johnson", 
+    "state": "Colorado", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Thomas Rowley", 
+    "state": "Utah", 
+    "team": "Freestyle"
+  }, 
+  {
+    "city": "Anchorage", 
+    "lat": 61.2181, 
+    "long": -149.9003, 
+    "name": "Erik Bjornsen", 
+    "state": "Alaska", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Afton", 
+    "lat": 44.9027, 
+    "long": -92.7835, 
+    "name": "Jessie Diggins", 
+    "state": "Minnesota", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Anchorage", 
+    "lat": 61.2181, 
+    "long": -149.9003, 
+    "name": "Rosie Brennan", 
+    "state": "Alaska", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Anchorage", 
+    "lat": 61.2181, 
+    "long": -149.9003, 
+    "name": "Sadie Maubet Bjornsen", 
+    "state": "Alaska", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Stratton Mountain", 
+    "lat": 43.1134, 
+    "long": -72.9081, 
+    "name": "Simi Hamilton", 
+    "state": "Vermont", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Peru", 
+    "lat": 43.2298, 
+    "long": -72.8979, 
+    "name": "Sophie Caldwell", 
+    "state": "Vermont", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Craftsbury", 
+    "lat": 44.6367, 
+    "long": -72.3726, 
+    "name": "Caitlin Patterson", 
+    "state": "Vermont", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Anchorage", 
+    "lat": 61.2181, 
+    "long": -149.9003, 
+    "name": "Hailey Swirbul", 
+    "state": "Alaska", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Waltham", 
+    "lat": 42.3765, 
+    "long": -71.2356, 
+    "name": "Julia Kern", 
+    "state": "Massachusetts", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Sun Valley", 
+    "lat": 43.6971, 
+    "long": -114.3517, 
+    "name": "Kevin Bolger", 
+    "state": "Idaho", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Anchorage", 
+    "lat": 61.2181, 
+    "long": -149.9003, 
+    "name": "Scott Patterson", 
+    "state": "Alaska", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Landgrove", 
+    "lat": 43.2624, 
+    "long": -72.8549, 
+    "name": "Benjamin Ogden", 
+    "state": "Vermont", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Anchorage", 
+    "lat": 61.2181, 
+    "long": -149.9003, 
+    "name": "Gus Schumacher", 
+    "state": "Alaska", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Truckee", 
+    "lat": 39.328, 
+    "long": -120.1833, 
+    "name": "Hannah Halvorsen", 
+    "state": "California", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Ketchum", 
+    "lat": 43.6807, 
+    "long": 114.3637, 
+    "name": "Johnny Hagenbuch", 
+    "state": "Idaho", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Fairbanks", 
+    "lat": 64.8378, 
+    "long": -147.7164, 
+    "name": "Kendall Kramer", 
+    "state": "Alaska", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Anchorage", 
+    "lat": 61.2181, 
+    "long": -149.9003, 
+    "name": "Luke Jager", 
+    "state": "Alaska", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Steamboat Springs", 
+    "lat": 40.485, 
+    "long": -106.8317, 
+    "name": "Noel Keeffe", 
+    "state": "Colorado", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Winthrop", 
+    "lat": 48.4779, 
+    "long": -120.1862, 
+    "name": "Novie McCabe", 
+    "state": "Washington", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Marquette", 
+    "lat": 46.5436, 
+    "long": -87.3954, 
+    "name": "Zak Ketterson", 
+    "state": "Michigan", 
+    "team": "Cross Country"
+  }, 
+  {
+    "city": "Steamboat", 
+    "lat": 40.485, 
+    "long": -106.8317, 
+    "name": "Annika Belshaw", 
+    "state": "Colorado", 
+    "team": "Ski Jumping"
+  }, 
+  {
+    "city": "Barrington", 
+    "lat": 42.1539, 
+    "long": -88.1362, 
+    "name": "Casey Larson", 
+    "state": "Illinois", 
+    "team": "Ski Jumping"
+  }, 
+  {
+    "city": "Steamboat Springs", 
+    "lat": 40.485, 
+    "long": -106.8317, 
+    "name": "Decker Dean", 
+    "state": "Colorado", 
+    "team": "Ski Jumping"
+  }, 
+  {
+    "city": "Wauconda", 
+    "lat": 42.2589, 
+    "long": -88.1392, 
+    "name": "Kevin Bickner", 
+    "state": "Illinois", 
+    "team": "Ski Jumping"
+  }, 
+  {
+    "city": "Steamboat", 
+    "lat": 40.485, 
+    "long": -106.8317, 
+    "name": "Logan Sankey", 
+    "state": "Colorado", 
+    "team": "Ski Jumping"
+  }, 
+  {
+    "city": "Ljubljana", 
+    "lat": 46.0569, 
+    "long": 14.5058, 
+    "name": "Nina Lussi", 
+    "state": "Slovenia", 
+    "team": "Ski Jumping"
+  }, 
+  {
+    "city": "Florence", 
+    "lat": 45.9224, 
+    "long": -88.252, 
+    "name": "Nita Englund", 
+    "state": "Wisconsin", 
+    "team": "Ski Jumping"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Sam Macuga", 
+    "state": "Utah", 
+    "team": "Ski Jumping"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Sarah Hendrickson", 
+    "state": "Utah", 
+    "team": "Ski Jumping"
+  }, 
+  {
+    "city": "West Fairlee", 
+    "lat": 43.9092, 
+    "long": -72.2629, 
+    "name": "Tara Geraghty-Moats", 
+    "state": "Vermont", 
+    "team": "Ski Jumping"
+  }, 
+  {
+    "city": "Eau Claire", 
+    "lat": 44.8113, 
+    "long": -91.4985, 
+    "name": "Ben Loomis", 
+    "state": "Wisconsin", 
+    "team": "Nordic Combined"
+  }, 
+  {
+    "city": "Steamboat Springs", 
+    "lat": 40.485, 
+    "long": -106.8317, 
+    "name": "Grant Andrews", 
+    "state": "Colorado", 
+    "team": "Nordic Combined"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Jared Shumate", 
+    "state": "Utah", 
+    "team": "Nordic Combined"
+  }, 
+  {
+    "city": "Steamboat Springs", 
+    "lat": 40.485, 
+    "long": -106.8317, 
+    "name": "Jasper Good", 
+    "state": "Colorado", 
+    "team": "Nordic Combined"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Stephen Schumann", 
+    "state": "Utah", 
+    "team": "Nordic Combined"
+  }, 
+  {
+    "city": "West Fairlee", 
+    "lat": 43.9092, 
+    "long": -72.2629, 
+    "name": "Tara Geraghty-Moats", 
+    "state": "Vermont", 
+    "team": "Nordic Combined"
+  }, 
+  {
+    "city": "Park City", 
+    "lat": 40.6461, 
+    "long": -111.498, 
+    "name": "Taylor Fletcher", 
+    "state": "Utah", 
+    "team": "Nordic Combined"
+  }, 
+  {
+    "city": "Breckenridge", 
+    "lat": 39.4817, 
+    "long": -106.0384, 
+    "name": "Arielle Gold", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Dillon", 
+    "lat": 39.6303, 
+    "long": -106.0434, 
+    "name": "Chase Blackwell", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Hailey", 
+    "lat": 43.5196, 
+    "long": -114.3153, 
+    "name": "Chase Josey", 
+    "state": "Idaho", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Torrance", 
+    "lat": 33.8358, 
+    "long": -118.3406, 
+    "name": "Chloe Kim", 
+    "state": "California", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Eagle", 
+    "lat": 39.6553, 
+    "long": -106.8287, 
+    "name": "Jake Pates", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Wrightwood", 
+    "lat": 34.3608, 
+    "long": -117.6334, 
+    "name": "Maddie Mastro", 
+    "state": "California", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Vail", 
+    "lat": 39.6403, 
+    "long": -106.3742, 
+    "name": "Ryan Wachendorfer", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Breckenridge", 
+    "lat": 39.4817, 
+    "long": -106.0384, 
+    "name": "Taylor Gold", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Mammoth Lakes", 
+    "lat": 37.6485, 
+    "long": -118.9721, 
+    "name": "Toby Miller", 
+    "state": "California", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Avon", 
+    "lat": 39.6331, 
+    "long": -106.5222, 
+    "name": "Chris Corning", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "San Clemente", 
+    "lat": 33.4274, 
+    "long": -117.6126, 
+    "name": "Hailey Langland", 
+    "state": "California", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Lake Tahoe", 
+    "lat": 39.0968, 
+    "long": -120.0324, 
+    "name": "Jamie Anderson", 
+    "state": "California", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "La Jolla", 
+    "lat": 32.8328, 
+    "long": -117.2713, 
+    "name": "Judd Henkes", 
+    "state": "California", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Westport", 
+    "lat": 41.1415, 
+    "long": -73.3579, 
+    "name": "Julia Marino", 
+    "state": "Connecticut", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "West Bloomfield", 
+    "lat": 42.5679, 
+    "long": -83.3733, 
+    "name": "Kyle Mack", 
+    "state": "Michigan", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Blowing Rock", 
+    "lat": 36.1351, 
+    "long": -81.6776, 
+    "name": "Luke Winkelmann", 
+    "state": "North Carolina", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Haiku", 
+    "lat": 20.9175, 
+    "long": -156.3258, 
+    "name": "Lyon Farrell", 
+    "state": "Hawaii", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Silverthorne", 
+    "lat": 39.6296, 
+    "long": -106.0713, 
+    "name": "Red Gerard", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Anchorage", 
+    "lat": 61.2181, 
+    "long": -149.9003, 
+    "name": "Ryan Stassel", 
+    "state": "Alaska", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Hood River", 
+    "lat": 45.7068, 
+    "long": -121.5281, 
+    "name": "Sean FitzSimons", 
+    "state": "Oregon", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Edwards", 
+    "lat": 39.5764, 
+    "long": -106.7235, 
+    "name": "Jack Coyne", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Winter Park", 
+    "lat": 39.8917, 
+    "long": -105.7631, 
+    "name": "Jason Wolle", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Telluride", 
+    "lat": 37.9375, 
+    "long": -107.8123, 
+    "name": "Lucas Foster", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Carlsbad", 
+    "lat": 33.1581, 
+    "long": -117.3506, 
+    "name": "Tessa Maud", 
+    "state": "California", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Riegelsville", 
+    "lat": 40.5943, 
+    "long": -75.1955, 
+    "name": "Addie Gardner", 
+    "state": "Pennsylvania", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "West Bend", 
+    "lat": 43.4253, 
+    "long": -88.1834, 
+    "name": "Courtney Rummel", 
+    "state": "Wisconsin", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Mammoth Lakes", 
+    "lat": 37.6485, 
+    "long": -118.9721, 
+    "name": "Dusty Henricksen", 
+    "state": "California", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Salt Lake City", 
+    "lat": 40.7608, 
+    "long": -111.891, 
+    "name": "Jade Thurgood", 
+    "state": "Utah", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Evergreen", 
+    "lat": 39.6333, 
+    "long": -105.3172, 
+    "name": "Jake Canter", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Frisco", 
+    "lat": 39.5744, 
+    "long": -106.0975, 
+    "name": "Ty Schnorrbusch", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Salt Lake City", 
+    "lat": 40.7608, 
+    "long": -111.891, 
+    "name": "Alex Deibold", 
+    "state": "Utah", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Salt Lake City", 
+    "lat": 40.7608, 
+    "long": -111.891, 
+    "name": "Faye Gulini", 
+    "state": "Utah", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Silverthorne", 
+    "lat": 39.6296, 
+    "long": -106.0713, 
+    "name": "Hagen Kearney", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Pinckney", 
+    "lat": 42.4567, 
+    "long": -83.9463, 
+    "name": "Jake Vedder", 
+    "state": "Michigan", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Stratton Mountain", 
+    "lat": 43.1134, 
+    "long": -72.9081, 
+    "name": "Lindsey Jacobellis", 
+    "state": "Vermont", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Steamboat Springs", 
+    "lat": 40.485, 
+    "long": -106.8317, 
+    "name": "Mick Dierdorff", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Iron River", 
+    "lat": 46.0927, 
+    "long": -88.6424, 
+    "name": "Nick Baumgartner", 
+    "state": "Michigan", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Squaw Valley", 
+    "lat": 39.197, 
+    "long": -120.2357, 
+    "name": "Nate Holland", 
+    "state": "California", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Anchorage", 
+    "lat": 61.2181, 
+    "long": -149.9003, 
+    "name": "Rosie Mancari", 
+    "state": "Alaska", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Vail", 
+    "lat": 39.6403, 
+    "long": -106.3742, 
+    "name": "Senna Leith", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Hubbard", 
+    "lat": 45.1823, 
+    "long": -122.8079, 
+    "name": "Livia Molodyh", 
+    "state": "Oregon", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Eagle", 
+    "lat": 39.6553, 
+    "long": -106.8287, 
+    "name": "Meghan Tierney", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Shrewsbury", 
+    "lat": 42.2959, 
+    "long": -71.7128, 
+    "name": "Mikey LaCroix", 
+    "state": "Massachusetts", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Golden", 
+    "lat": 39.7555, 
+    "long": -105.2211, 
+    "name": "Stacy Gaskill", 
+    "state": "Colorado", 
+    "team": "Snowboard"
+  }, 
+  {
+    "city": "Rumson", 
+    "lat": 40.3721, 
+    "long": -73.999, 
+    "name": "Aaron AJ Muss", 
+    "state": "New Jersey", 
+    "team": "Snowboard"
+  }
+]

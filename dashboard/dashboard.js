@@ -175,7 +175,23 @@ d3.json("ski.json").then((data) => {
   }
 
   function updatePlotly(newvalues) {
-    Plotly.restyle("table", "values", [newvalues]);
-  }
+    var data = [{
+      type: 'table',
+      header: {
+        values: [["<b>Name</b>"], ["<b>City</b>"], ["<b>State</b>"], ["<b>Team</b>"]],
+       align: "center",
+       line: {width: 1, color: 'black'},
+        fill: {color: "grey"},
+        font: {family: "Arial", size: 12, color: "white"}
+      },
+      cells: {
+        values: newvalues,
+        align: "center",
+        line: {color: "black", width: 1},
+        font: {family: "Arial", size: 11, color: ["black"]}
+      }
+    }]
+    Plotly.newPlot('table', data);
+  };
 
 });

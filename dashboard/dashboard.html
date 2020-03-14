@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Skiers</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h2>Olympic Skiers' Background Information</h2>
+    <select id="selDataset">
+        <option value="alpine">Alpine</option>
+        <option value="freeski">Freeski</option>
+        <option value="freestyle">Freestyle</option>
+        <option value="cross_country">Cross Country</option>
+        <option value="ski_jumping">Ski Jumping</option>
+        <option value="nordic">Nordic</option>
+        <option value="snowboard">Snowboard</option>
+
+    </select>
+
+    <div id="table"></div>
+
+    <script src="dashboard.js"></script>
+    <script src="ski.json"></script>
+</body>
+</html>

@@ -10,6 +10,13 @@ Visualizing how proximity to mountains affects individuals in their pursuit to q
 * Jupyter Notebook used for cleaning the mountain data
 
 
+## scrape_clean_ski_data
+* Jupyter noted book used to scrape and clean the data from the US Olympic Ski Team Website.
+
+
+
+
+
 
 
 

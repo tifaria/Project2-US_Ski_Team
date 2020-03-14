@@ -15,8 +15,8 @@ Visualizing how proximity to mountains affects individuals in their pursuit to q
 
 
 ## Static
-### CSS
-### JS
+* ### CSS
+* ### JS
 * map.html
 
 

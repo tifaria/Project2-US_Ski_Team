@@ -19,6 +19,10 @@ Visualizing how proximity to mountains affects individuals in their pursuit to q
 * ### JS
 * map.html
 
+## Flask App and JSON files
+* app.py
+* ski.jon
+* mountains.json
 
 
 

@@ -14,6 +14,12 @@ Visualizing how proximity to mountains affects individuals in their pursuit to q
 * Jupyter noted book used to scrape and clean the data from the US Olympic Ski Team Website.
 
 
+## Static
+### CSS
+### JS
+* map.html
+
+
 
 
 

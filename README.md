@@ -6,5 +6,10 @@ Visualizing how proximity to mountains affects individuals in their pursuit to q
 * Top 10 Mountains per State CSV file
 
 
+## Mountain Data
+* Jupyter Notebook used for cleaning the mountain data
+
+
+
 
 
